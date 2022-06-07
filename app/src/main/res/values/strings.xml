@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intentos</string>
+    <string name="btnSet">Set</string>
+    <string name="btnGet">Get</string>
+</resources>
